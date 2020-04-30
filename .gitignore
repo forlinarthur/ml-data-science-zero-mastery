@@ -2,7 +2,7 @@
 *.ipynb_checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+*/env/*
 bulldozer-price-regression/data/
 bulldozer-price-regression/env/
 
